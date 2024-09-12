@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Elasticsearch.POC.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YZ20BwMZTgjPjnxikne5HSV6Tq3aAQO0KZVU44fMQl4=",
+  "Source": "Elasticsearch.POC.API",
+  "BasePath": "_content/Elasticsearch.POC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
